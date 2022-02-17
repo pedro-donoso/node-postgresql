@@ -71,6 +71,6 @@ Delete project
 ```
 http://localhost:3000/api/projects/14
 ```
-* revision in PSQL:
+* revision in PSQL -> SELECT * FROM projects;
 
 ![BORRAR](https://user-images.githubusercontent.com/68760595/154503733-6423e857-00a2-4aed-aea8-7de6f1a03616.PNG)
