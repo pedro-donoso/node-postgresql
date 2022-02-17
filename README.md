@@ -66,3 +66,11 @@ http://localhost:3000/api/projects/2
 
 ![delete](https://user-images.githubusercontent.com/68760595/154503192-7b2ec90f-12e7-4f9a-8949-9041cfbbfb09.PNG)
 
+Delete project
+
+```
+http://localhost:3000/api/projects/14
+```
+* revision in PSQL:
+
+![BORRAR](https://user-images.githubusercontent.com/68760595/154503733-6423e857-00a2-4aed-aea8-7de6f1a03616.PNG)
