@@ -61,3 +61,8 @@ http://localhost:3000/api/projects/2
 ```
 
 ![put](https://user-images.githubusercontent.com/68760595/154337464-e953d22e-2c84-4427-b466-80d06b811314.PNG)
+
+10. ### DELETE
+
+![delete](https://user-images.githubusercontent.com/68760595/154503192-7b2ec90f-12e7-4f9a-8949-9041cfbbfb09.PNG)
+
