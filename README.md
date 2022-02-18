@@ -14,7 +14,6 @@ npm install express pg pg-hstore nodemon sequelize morgan @babel/polyfill
 npm install --save-dev @babel/core @babel/cli @babel/preset-env
 ```
 
-* in case of problem, solution in stack overflow
 
 4. in PSQL -> password: password
 
